@@ -1,3 +1,7 @@
 remote_theme:
 plugins:
 theme: 
+title:
+description:
+show_downloads:
+google_analytics:
